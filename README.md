@@ -8,8 +8,8 @@ Për të instaluar dhe ekzekutuar aplikacionin në mjedisin tuaj lokal, ndiqni h
 
 1. **Klononi repozitorin**:
    ```bash
-   git clone <URL-e-repozitorit>
-   cd <emri-i-repozitorit>
+   git clone 'https://github.com/enkelosmani/pharmacy.git'
+   cd pharmacy
    ```
 
 2. **Instaloni varësitë**:
